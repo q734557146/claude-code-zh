@@ -41,3 +41,10 @@ Claude Code / Claude Desktop 中文汉化补丁，主要用于将官方直连 1P
 
 ```text
 C:\ProgramData\ClaudeZhPatch\uninstall.cmd
+## 交流群
+
+如果安装或使用过程中遇到问题，可以扫码加入交流群反馈。
+
+![微信群二维码](4778aa78daebba0cdc8e2e5f511b43d0.jpg)
+
+二维码如已过期，请在 Issues 中留言，我会更新新的群二维码。
